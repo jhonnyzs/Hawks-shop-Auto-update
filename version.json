@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
-  "latestVersion": "1.0.0",
+  "version": "1.0.1",
+  "latestVersion": "1.0.1",
   "releaseDate": "2026-05-31",
   "forceUpdate": false,
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
   "downloadUrl": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
-  "fileSizeBytes": 0,
-  "sha256": "",
+  "fileSizeBytes": 40602400,
+  "sha256": "56366cf20d7185ffbfa1fea49e19ccca19cfbfbce104ecdf40cd7be4dd01aee0",
   "changelog": [
-    "Initial release of Hawkstronix Shop."
+    "Hawkstronix Shop 1.0.1."
   ]
 }
