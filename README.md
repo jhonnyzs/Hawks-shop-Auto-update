@@ -30,12 +30,19 @@ https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/version.j
 | `sha256`        | Checksum of the download (optional).                           |
 | `changelog`     | List of human-readable notes shown to the user.                |
 
-## Releasing a new version
+## Releasing a new version (one click)
 
-1. In the app, bump `APP_VERSION` in `PC app/src/version.py`, then `build.bat`
-   → `dist/HawksShop.exe`.
-2. Create a GitHub **Release** here (tag e.g. `v1.1.0`) and attach
-   `HawksShop.exe` (the `releases/latest/download/HawksShop.exe` URL then points
-   to it).
-3. Run `python release.py 1.1.0 "note one" "note two"` to update `version.json`,
-   commit and push — the app picks it up on its next launch.
+From the app folder (`Hawks Shop`), run **`release.bat`** (double-click it).
+It bumps the version, rebuilds `HawksShop.exe`, runs the **self-test gate**
+(won't publish a broken build), then commits the new `HawksShop.exe` +
+`version.json` into **this** repo and pushes. The app downloads the exe straight
+from the committed **raw URL** above — so **no GitHub Release is needed**.
+
+```
+release.bat                bump patch + publish
+release.bat minor          bump minor
+release.bat --no-publish   build only, don't upload
+```
+
+> The standalone `release.py` in this repo is just a manual fallback for editing
+> `version.json` by hand.

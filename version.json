@@ -3,8 +3,8 @@
   "latestVersion": "1.0.0",
   "releaseDate": "2026-05-31",
   "forceUpdate": false,
-  "windows_url": "https://github.com/jhonnyzs/Hawks-shop-Auto-update/releases/latest/download/HawksShop.exe",
-  "downloadUrl": "https://github.com/jhonnyzs/Hawks-shop-Auto-update/releases/latest/download/HawksShop.exe",
+  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
   "fileSizeBytes": 0,
   "sha256": "",
   "changelog": [
