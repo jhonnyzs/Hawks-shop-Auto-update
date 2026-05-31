@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-05-31",
+  "forceUpdate": false,
+  "windows_url": "https://github.com/jhonnyzs/Hawks-shop-Auto-update/releases/latest/download/HawksShop.exe",
+  "downloadUrl": "https://github.com/jhonnyzs/Hawks-shop-Auto-update/releases/latest/download/HawksShop.exe",
+  "fileSizeBytes": 0,
+  "sha256": "",
+  "changelog": [
+    "Initial release of Hawkstronix Shop."
+  ]
+}
