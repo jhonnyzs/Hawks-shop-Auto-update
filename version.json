@@ -1,13 +1,9 @@
 {
-  "version": "1.0.4",
-  "latestVersion": "1.0.4",
-  "releaseDate": "2026-05-31",
-  "forceUpdate": false,
-  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
-  "downloadUrl": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.exe",
-  "fileSizeBytes": 59464093,
-  "sha256": "36f4795ab6b201ac97e68cefce5cd368948d617ea30e6d03dd47dfe16a934136",
-  "changelog": [
-    "Hawkstronix Shop 1.0.4."
-  ]
+  "version": "1.0.5",
+  "windows_url": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.zip",
+  "format": "zip",
+  "notes": "Hawkstronix Shop update 1.0.5.",
+  "mandatory": false,
+  "sha256": "670313e6d9e1b7e996482adea780f3bf22ff12d7dc3ee872f791259efd0f4847",
+  "size": 60898520
 }
