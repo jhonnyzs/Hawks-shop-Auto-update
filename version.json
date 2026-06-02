@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "windows_url": "https://raw.githubusercontent.com/jhonnyzs/Hawks-shop-Auto-update/main/HawksShop.zip",
   "format": "zip",
-  "notes": "Hawkstronix Shop update 1.0.5.",
+  "notes": "Hawkstronix Shop update 1.0.6.",
   "mandatory": false,
-  "sha256": "670313e6d9e1b7e996482adea780f3bf22ff12d7dc3ee872f791259efd0f4847",
-  "size": 60898520
+  "sha256": "5598547f4a4a8e8f6ef15712487d2569a64a13d39c82a8fefa8103776bb3b634",
+  "size": 60897938
 }
